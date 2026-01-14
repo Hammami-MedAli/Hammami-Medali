@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hi, I'm MedAli!
 
-<!--
-**Hammami-MedAli/Hammami-Medali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Business Computing student at the university [Ecole Supérieure d'Economie Numérique Manouba](https://esen.rnu.tn/portail/) 🌟  
+Passionate about **programming, game dev & web development** 💻  
+I'm currently focusing on building projects and improving my coding skills 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+I code primarily in:  
+**Python 🐍**  
+**C ⚙️**  
+**C# 🎮**  
+
+And I work with tools like:  
+**Unity 🕹️**  
+**Visual Studio 🖥️**  
+**Code Blocks 📝**
+
+---
+
+## 📫 Reach me on
+
+📧 Email: [hammamimedali911@gmail.com](mailto:hammamimedali911@gmail.com)  
+⭐ Always learning. Always building.
