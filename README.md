@@ -22,5 +22,5 @@ And I work with tools like:
 
 ## 📫 Reach me on
 
-📫 Email: [hammamimedali911@gmail.com](mailto:lahabfreefire70@gmail.com)</br>
+📫 Email: [hammamimedali911@gmail.com](mailto:hammamimedali911@gmail.com)</br>
 ⭐ Always learning. Always building.
