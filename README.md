@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm MedAli!
 
 I'm a Business Computing student at the university [Ecole Supérieure d'Economie Numérique Manouba](https://esen.rnu.tn/portail/) 🌟  
-Passionate about **programming, game dev & web development** 💻  
+Passionate about **programming and  game dev** 💻  
 I'm currently focusing on building projects and improving my coding skills 🚀
 
 ---
