@@ -9,14 +9,14 @@ I'm currently focusing on building projects and improving my coding skills 🚀
 ## 🛠 Skills
 
 I code primarily in:  
-**Python 🐍**  
-**C ⚙️**  
-**C# 🎮**  
+- **Python 🐍**  
+- **C ⚙️**  
+- **C# 🎮**  
 
 And I work with tools like:  
-**Unity 🕹️**  
-**Visual Studio 🖥️**  
-**Code Blocks 📝**
+- **Unity 🕹️**  
+- **Visual Studio 🖥️**  
+- **Code Blocks 📝**
 
 ---
 
